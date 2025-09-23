@@ -13,7 +13,7 @@
 ### **Integrantes:**  
 - [Diogo Moreira Bomfim Bandeira](https://www.linkedin.com/in/diogo-moreira-bomfim-bandeira/)
 - [Felipe de Castro e Lima](https://www.linkedin.com/in/felipe-lima-476b71236/)  
-- [João Vitor Cenedeze]("https://www.linkedin.com/in/cenedeze-undefined-37664a288/)
+- [Joao Vitor Cenedeze]("https://www.linkedin.com/in/cenedeze-undefined-37664a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Matheus Antero da Silva](https://www.linkedin.com/in/matheus-antero-/)
 
 ### **Professores Orientadores:**  
@@ -80,7 +80,11 @@ Há também 3 pastas que seguem da seguinte forma:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="50" height="50" alt="Scikit-learn"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="50" height="50" alt="Plotly"/>
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="50" height="50" alt="GitHub Pages"/>
 </p>
+
 
 - **Frontend:** React.js (responsividade e interatividade)  
 - **Backend:** Flask (Python) 
